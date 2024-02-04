@@ -1,0 +1,19 @@
+section div{
+        color: white;
+        background-color: red;
+    }
+    
+nav>div{
+        background-color: blue;
+        color: white;
+    }
+    
+footer+div{
+        background-color: aqua;
+        color: white;
+    }
+    
+span~div{
+        background-color: blueviolet;
+        color: white;
+    }
